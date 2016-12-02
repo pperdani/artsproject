@@ -105,7 +105,7 @@
 				<div class="navbar">
 					<div class="col-xs-2">
 						<div class="navbar-left col-xs-12"> ARTS </div>
-						<div class="navbar-left-sub col-xs-12"> ARTS </div>
+						<div class="navbar-left-sub col-xs-12"> arts of fantasy </div>
 					</div>
 					<div class="col-xs-4">
 						<div class="navbar-left-sub col-xs-12"> Lorem ipsum dolor sit amet </div>
