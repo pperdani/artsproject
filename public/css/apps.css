@@ -1,0 +1,71 @@
+/** Navbar **/
+.navbar {
+	padding: 15px;
+	padding-left:20px;
+	background-color:aliceblue;
+	opacity: 0.7;
+	border-radius: 0px;
+}
+.navbar-left {
+	font-size: 25px;
+}
+.navbar-left-sub {
+	font-size: 15px;
+}
+.film-box {
+	background-image:url('/public/img/madara.jpg');
+	background-size: cover;
+    height: 100%;
+}
+
+/** Menu Cards **/
+.menu-box {
+	padding-top: 75px;
+}
+.menu-cards {
+	text-align: center;
+    height: 300px;
+    background-color: aliceblue;
+    opacity: 0.7;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+	cursor: pointer;
+	color: black;
+}
+.menu-cards.pixel-card:hover {
+	background-color: black;
+	color: white;
+	background-image: url(/public/img/rylai.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.menu-cards.photo-card:hover {
+	background-color: black;
+	color: white;
+	background-image: url(/public/img/rusa.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.menu-cards.craft-card:hover {
+	background-color: black;
+	color: white;
+	background-image: url(/public/img/craft.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+/** Footer **/
+.footer-text {
+    position: absolute;
+    bottom: 0px;
+    padding-left: 30px;
+    color: #c1c1c1;
+}
