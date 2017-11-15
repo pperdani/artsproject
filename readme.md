@@ -25,3 +25,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## Installation of this project
+1.	https://git-for-windows.github.io/
+2.	Go download
+3.	Open/Install git .exe
+4.	After install, setting account for git
+5.	Clone from github
+    git clone https://github.com/pdwitya/artsproject.git
+6.	Because it is Laravel project, we need to composer update the project
+    composer update
+7.	Then, in artsproject folder, we need to call 
+    php artisan serve
+
