@@ -13,7 +13,7 @@
 	font-size: 15px;
 }
 .film-box {
-	background-image:url('/public/img/madara.jpg');
+	background-image:url('/img/madara.jpg');
 	background-size: cover;
     height: 100%;
 }
@@ -38,7 +38,7 @@
 .menu-cards.pixel-card:hover {
 	background-color: black;
 	color: white;
-	background-image: url(/public/img/rylai.gif);
+	background-image: url(/img/rylai.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: center;
@@ -47,7 +47,7 @@
 .menu-cards.photo-card:hover {
 	background-color: black;
 	color: white;
-	background-image: url(/public/img/rusa.JPG);
+	background-image: url(/img/rusa.JPG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: center;
@@ -56,7 +56,7 @@
 .menu-cards.craft-card:hover {
 	background-color: black;
 	color: white;
-	background-image: url(/public/img/craft.jpg);
+	background-image: url(/img/craft.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: center;

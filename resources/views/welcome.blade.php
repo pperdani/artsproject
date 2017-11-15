@@ -20,7 +20,7 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
 		<!-- Stylesheets -->
-		<link rel="stylesheet" href="/public/css/apps.css">
+		<link rel="stylesheet" href="/css/apps.css">
 
         <!-- Styles -->
         <style>
