@@ -38,3 +38,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 7.	Then, in artsproject folder, we need to call 
     php artisan serve
 
+8. Enjoy!
