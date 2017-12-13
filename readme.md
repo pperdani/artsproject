@@ -41,10 +41,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 8. Enjoy the code!
 
 P.S I want to test aws jenkins.
-This is test build with s3
-abcdefghijwwcccwwe
-33
-swwaala 
-q444tyad
-sd
-sdasd
+This will go to art.dwitya.com.
+Stay tune!
