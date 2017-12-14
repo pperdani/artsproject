@@ -1,0 +1,8 @@
+Scenario
+1. add new branch developer
+2. Fork repo
+3. Delete current branch developer local
+4. Push delete branch developer
+5. Create new branch feature/developer and add file readme.txt
+5. Create new branch under feature/developer as feature/modifyreadme (readme.txt) and this file
+5. Merge feature/modifyreadme to feature/developer
