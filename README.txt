@@ -1,1 +1,1 @@
-This is just a test to add new file and commmit
+This is just a test to add more file and commmit
